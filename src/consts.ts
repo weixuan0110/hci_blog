@@ -45,10 +45,10 @@ export interface SlideTheme {
   overlayColor: string;
 }
 
-export const SITE_TITLE = "MONA";
-export const SITE_DESCRIPTION = "Mona — Learn from What We Build";
+export const SITE_TITLE = "niubility 2.0";
+export const SITE_DESCRIPTION = "niubility 2.0 — Practical human-computer interaction projects and notes.";
 
-export const PROD_URL = "https://www.mymona.xyz";
+export const PROD_URL = "https://www.hciblog.vercel.app";
 
 export const isProdEnv = () => {
   if (import.meta.env?.PROD || import.meta.env?.MODE === "production") {
