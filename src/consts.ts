@@ -81,31 +81,24 @@ export interface MenuItem {
 
 export const MENU_ITEMS: MenuItem[] = [
   {
+    id: "home",
+    label: "Home page",
+    href: "/",
+    title: "Home page",
+    description: "Return to the home page.",
+  },
+  {
     id: "blogs",
-    label: "Articles",
+    label: "Blog",
     href: "/blogs",
-    title: "Articles",
+    title: "Blog",
     description:
       "Practical guides, in-depth technical pieces, and lessons from real projects.",
   },
   {
-    id: "cards",
-    label: "Cards",
-    href: "/cards",
-    title: "Cards",
-    description: "Developer-Gathered, AI-Crafted, Human-Checked.",
-  },
-  {
-    id: "slides",
-    label: "Slides",
-    href: "/slides",
-    title: "Slides",
-    description: "Interactive presentations crafted for developers.",
-  },
-  {
     id: "open-source",
     label: "GitHub",
-    href: "https://github.com/monakit/monakit",
+    href: "https://github.com/weixuan0110/hci_blog",
     title: "GitHub",
     description: "Explore our open-source projects.",
   },

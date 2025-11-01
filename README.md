@@ -1,13 +1,11 @@
-# MonaKit
+# HCI Blog
 
-An Astro theme featuring multi-format content including knowledge cards, articles, slide presentations, and doodle announcements.
+An Astro-based website for Human-Computer Interaction blog posts, slide presentations, and project documentation.
 
 ## Features
 
-- **Knowledge Cards**: Research summaries and insights with customizable themes
-- **Articles**: Blog posts and long-form content
+- **Blog**: Articles, research notes, and reflections on HCI methods and findings
 - **Slide Presentations**: Interactive slides with reveal.js
-- **Doodles**: Running log of releases, experiments, and announcements (Mona Pulse)
 - **Search**: Pagefind-powered search with full-text indexing
 
 ## Tech Stack
@@ -19,30 +17,28 @@ An Astro theme featuring multi-format content including knowledge cards, article
 - Anime.js 4 for animations
 - Pagefind for static search indexing
 
-## How to Use
+## Repository
 
-```bash
-npm create astro@latest my-astro-project -- --template monakit/monakit
-```
+https://github.com/weixuan0110/hci_blog
 
 ## Development
 
 ```bash
 # Install dependencies
-npm install
+pnpm install
 
 # Start development server
-npm run dev
+pnpm run dev
 
 # Build search index (runs automatically on build)
-npm run build:search-index
+pnpm run build:search-index
 
 # Code quality
-npm run check
-npm run fix
+pnpm run check
+pnpm run fix
 
 # Build for production (auto-builds search index)
-npm run build
+pnpm run build
 ```
 
 ### Note

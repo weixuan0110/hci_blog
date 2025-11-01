@@ -1,16 +1,11 @@
 ---
-import { DOODLE_EMOJIS } from "@/consts";
-import type { Doodle } from "@/schemas/doodle";
 import ScrollingTags from "./ScrollingTags.astro";
 
 export interface Props {
   uniqueTags: string[];
-  doodle?: Doodle & { href: string };
 }
 
-const { uniqueTags, doodle } = Astro.props as Props;
-const doodleEmoji =
-  DOODLE_EMOJIS[Math.floor(Math.random() * DOODLE_EMOJIS.length)];
+const { uniqueTags } = Astro.props as Props;
 ---
 
 <section
@@ -49,51 +44,20 @@ const doodleEmoji =
         id="mona-text"
       >
         <div id="hero-content">
-          {doodle ? (
-            <>
-              <h1
-                class="mb-4 text-5xl font-bold tracking-tight text-white sm:text-7xl"
-              >
-                <span
-                  class="relative inline-block text-primary text-glow animate-pulse"
-                >
-                  {doodleEmoji}
-                </span>&nbsp;{doodle.title}
-              </h1>
-
-              <p class="mx-auto max-w-3xl text-xl text-white leading-relaxed">
-                {doodle.description}
-              </p>
-            </>
-          ) : (
-            <>
-              <h1
-                class="mb-4 text-5xl font-bold tracking-tight text-white sm:text-7xl"
-              >
-                <span
-                  class="relative inline-block text-primary text-glow animate-pulse"
-                >
-                  niubility 2.0
-                </span>{" "}— HCI Projects
-              </h1>
-
-              <p class="mx-auto max-w-3xl text-xl text-white leading-relaxed">
-                Exploring user-centered design, prototyping and evaluation —
-                practical projects, reflections and learnings from our HCI group.
-              </p>
-            </>
-          )}
-        </div>
-
-        {doodle && (
-          <a
-            href={doodle.href}
-            class="mt-6 inline-flex items-center gap-2 px-6 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition-colors opacity-0 translate-y-2 pointer-events-none transform"
-            data-hero-button
+          <h1
+            class="mb-4 text-5xl font-bold tracking-tight text-white sm:text-7xl"
           >
-            Know More →
-          </a>
-        )}
+            <span
+              class="relative inline-block text-primary text-glow animate-pulse"
+            >
+              niubility 2.0
+            </span>{" "}— HCI Projects
+          </h1>
+
+          <p class="mx-auto max-w-3xl text-xl text-white leading-relaxed">
+            Exploring user-centered design, prototyping and evaluation from our HCI group.
+          </p>
+        </div>
       </div>
     </div>
   </div>
@@ -104,34 +68,9 @@ const doodleEmoji =
 
   document.addEventListener("DOMContentLoaded", () => {
     const heroContent = document.getElementById("hero-content");
-    const heroButton = document.querySelector("[data-hero-button]") as
-      | HTMLAnchorElement
-      | null;
 
     const startTags = () => {
       document.dispatchEvent(new Event("start-tags"));
-    };
-
-    const revealButton = () => {
-      if (!heroButton) {
-        startTags();
-        return;
-      }
-
-      const buttonTimeline = createTimeline({
-      });
-
-      buttonTimeline.add(heroButton, {});
-
-      buttonTimeline.init().then(() => {
-        heroButton.classList.remove(
-          "opacity-0",
-          "translate-y-2",
-          "pointer-events-none",
-        );
-        heroButton.classList.add("pointer-events-auto");
-        startTags();
-      });
     };
 
     if (heroContent) {
@@ -155,9 +94,9 @@ const doodleEmoji =
           stagger(10, { from: "random" })
         )
         .init()
-        .then(revealButton);
+        .then(startTags);
     } else {
-      revealButton();
+      startTags();
     }
   });
 </script>
