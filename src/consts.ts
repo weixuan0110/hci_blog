@@ -46,7 +46,8 @@ export interface SlideTheme {
 }
 
 export const SITE_TITLE = "niubility 2.0";
-export const SITE_DESCRIPTION = "niubility 2.0 — Practical human-computer interaction projects and notes.";
+export const SITE_DESCRIPTION =
+  "niubility 2.0 — Practical human-computer interaction projects and notes.";
 
 export const PROD_URL = "https://www.hciblog.vercel.app";
 

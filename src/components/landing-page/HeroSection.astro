@@ -16,9 +16,13 @@ const doodleEmoji =
 <section
   class="relative h-[calc(100vh-4rem)] overflow-hidden bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950"
 >
+  <!-- Hero background image (replaces the previous grid gradient). -->
   <div
-    class="absolute inset-0 bg-[linear-gradient(to_right,#0f172a_1px,transparent_1px),linear-gradient(to_bottom,#0f172a_1px,transparent_1px)] bg-[size:4rem_4rem] [mask-image:radial-gradient(ellipse_60%_50%_at_50%_0%,#000_70%,transparent_110%)] animate-pulse"
+    class="absolute inset-0 bg-cover bg-center animate-pulse"
+    style="background-image: url('/og.webp'); -webkit-mask-image: radial-gradient(ellipse_60%_50%_at_50%_0%, #000 70%, transparent 110%); mask-image: radial-gradient(ellipse_60%_50%_at_50%_0%, #000 70%, transparent 110%);"
   >
+    <!-- Optional dark overlay to keep text readable. Adjust opacity as needed. -->
+    <div class="absolute inset-0 bg-black/40"></div>
   </div>
 
   <ScrollingTags uniqueTags={uniqueTags} />
@@ -70,7 +74,7 @@ const doodleEmoji =
                   class="relative inline-block text-primary text-glow animate-pulse"
                 >
                   niubility 2.0
-                </span>{" "}— Human‑Computer Interaction Projects
+                </span>{" "}— HCI Projects
               </h1>
 
               <p class="mx-auto max-w-3xl text-xl text-white leading-relaxed">
