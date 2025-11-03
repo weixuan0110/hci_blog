@@ -4,12 +4,11 @@ pubDate: "2025-10-30T08:00:00.000Z"
 author: "niubility 2.0"
 description: "Introduction to our HCI project team - niubility 2.0. Meet our group members and learn about our journey together!"
 tags: [hci, project, team, introduction]
-image: "./imgs/edwin.png"
 ---
 
 # Welcome to niubility 2.0! 🚀
 
-```![Group Photo](./imgs/group-photo.jpg)```
+```![Group Photo](./imgs/group-photo.jpeg)```
 
 ## About Our Group Name
 
