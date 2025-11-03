@@ -8,7 +8,7 @@ tags: [hci, project, team, introduction]
 
 # Welcome to niubility 2.0! 🚀
 
-![Group Photo](./imgs/group-photo.jpg)
+```![Group Photo](./imgs/group-photo.jpg)```
 
 ## About Our Group Name
 
