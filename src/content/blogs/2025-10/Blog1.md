@@ -4,6 +4,7 @@ pubDate: "2025-10-31T10:00:00.000Z"
 author: "niubility 2.0"
 description: "Our comprehensive proposal for Health Guard AI - an integrated wellness platform addressing posture correction, hygiene education, and mental health support"
 tags: [hci, project, proposal, health, wellness, app-design]
+image: "./imgs/posture-problem.png"
 ---
 
 # Project 1 - Project Proposal
