@@ -96,10 +96,10 @@ Utilizes the device's built-in camera with on-device pose estimation to track us
 A university student working on their laptop for an extended period begins to slouch. Their phone, positioned nearby, detects the postural change through the camera and sends a gentle haptic vibration reminder. The student immediately adjusts their posture without interrupting their workflow.
 
 **Benefits:**
-- ✅ **Real-time Correction:** Enables immediate postural correction without external hardware
-- ✅ **Privacy-Focused:** Video data is processed on-device and never stored or transmitted
-- ✅ **Health Prevention:** Reduces the risk of chronic back and neck pain from prolonged poor posture
-- ✅ **Non-Intrusive:** Subtle feedback doesn't disrupt concentration or workflow
+- **Real-time Correction:** Enables immediate postural correction without external hardware
+- **Privacy-Focused:** Video data is processed on-device and never stored or transmitted
+- **Health Prevention:** Reduces the risk of chronic back and neck pain from prolonged poor posture
+- **Non-Intrusive:** Subtle feedback doesn't disrupt concentration or workflow
 
 ---
 
