@@ -24,7 +24,7 @@ Despite better medical technologies, serious issues persist that do not have a c
 
 Prolonged use of computer monitors can be a health concern as improper spinal alignment while sitting and not being mindful of that can cause long-lasting discomfort in the back, strains in the neck and general fatigue. Current products provide little effective feedback in real-time that allows users to remain in harmful positions without alerting them.
 
-![Posture Problem](./imgs/posture-problem.jpg)
+![Posture Problem](./imgs/posture-problem.png)
 *Figure 1: Poor posture during long study or computer sessions has become a growing issue*
 
 **Usability Goals:**
@@ -43,7 +43,7 @@ Prolonged use of computer monitors can be a health concern as improper spinal al
 
 Traditional hygiene education has inherent limitations on engagement. Conventional methods of teaching handwashing and sanitation practices often fail to create lasting behavioural changes and knowledge retention, particularly in shared environments like university libraries and dormitories.
 
-![Hygiene Problem](./imgs/hygiene-problem.jpg)
+![Hygiene Problem](./imgs/hygiene-problem.png)
 *Figure 2: Communities often neglect basic hygiene practices in shared environments*
 
 **Usability Goals:**
@@ -62,7 +62,7 @@ Traditional hygiene education has inherent limitations on engagement. Convention
 
 The current mental health care system contains numerous access barriers. Many individuals choose not to talk about their anxiety or elevate mental health concerns to the provider level because of stigma, privacy concerns, and lack of immediate access, which results in unmet mental health needs.
 
-![Mental Health Problem](./imgs/mental-health-problem.jpg)
+![Mental Health Problem](./imgs/mental-health-problem.png)
 *Figure 3: People with anxiety are often hesitant to share concerns or seek help, leaving mental health issues unaddressed*
 
 **Usability Goals:**
