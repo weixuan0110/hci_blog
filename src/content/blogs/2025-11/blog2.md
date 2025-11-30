@@ -29,7 +29,7 @@ This task focuses on mental well-being by involving the Mind Mender module. User
 ## 2.0 Persona
 
 ### 2.1 Persona 1
-<img src="./imgs/0.jpg" alt="Persona 1: Canie - Monitor and Correct Posture Using Posture Guard" width="600" />
+![Persona 1: Canie - Monitor and Correct Posture Using Posture Guard](../imgs/0.jpg)
 
 **Name:** Canie  
 **Age:** 45 years old  
@@ -47,7 +47,7 @@ Canie seeks easy and effective solutions to reduce mental stress and avoid physi
 - The Mind Mender module offers discrete and quick support to manage her mental load.
 
 ### 2.2 Persona 2
-<img src="./imgs/1.jpg" alt="Persona 2: Akram Faisal - Complete a Gamified Hygiene Routine" width="600" />
+![Persona 2: Akram Faisal - Complete a Gamified Hygiene Routine](../imgs/1.jpg)
 
 **Name:** Akram Faisal  
 **Age:** 25 years old  
@@ -64,7 +64,7 @@ Akram wants to avoid long-term health problems, including burnout and persistent
 - Offers gamified engagement to encourage healthy habits without disrupting productivity.
 
 ### 2.3 Persona 3
-<img src="./imgs/2.jpg" alt="Persona 3: Tan Yi Jie - Log Emotional State and Receive a Personalized Mindfulness Activity" width="600" />
+![Persona 3: Tan Yi Jie - Log Emotional State and Receive a Personalized Mindfulness Activity](../imgs/2.jpg)
 
 **Name:** Tan Yi Jie  
 **Age:** 26 years old  
