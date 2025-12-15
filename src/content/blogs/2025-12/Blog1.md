@@ -1,5 +1,5 @@
 ---
-title: "Project 3 - Storyboards, Alternative Designs, and Wireframes"
+title: "Project 3 - Design Documentation"
 pubDate: "2025-12-15T10:00:00.000Z"
 author: "niubility 2.0"
 description: "Our comprehensive design process for Health Guard AI including storyboards, alternative designs, wireframes, and interaction metaphors"
@@ -7,33 +7,7 @@ tags: [hci, project, design, storyboard, wireframe, ui-ux]
 image: "./imgs/image1.png"
 ---
 
-# Project 3 - Storyboards, Alternative Designs, and Wireframes
-
-![Health Guard AI Project](./imgs/image1.png)
-
-**PROJECT PART #3**
-
-**SECV2113 HUMAN-COMPUTER INTERACTION**
-
-**SECTION 08**
-
-**PREPARED BY:**
-
-GROUP 3 Niubility 2.0
-
-| **NO.** | **STUDENT NAME** | **STUDENT ID** |
-| --- | --- | --- |
-| 1 | EDWIN TAN YEE EN | A24CS5022 |
-| 2 | QUAH ZHEN YEE | A24CS5062 |
-| 3 | LEE WEI XUAN | A24CS5026 |
-| 4 | FION TEE XIN YUE | A24CS5057 |
-| 5 | LIM ZOEY | A24CS5065 |
-
-**PREPARED TO:**
-
-TS. DR. SARINA BINTI SULAIMAN
-
----
+# Project 3 - Design Documentation
 
 ## Table of Contents
 

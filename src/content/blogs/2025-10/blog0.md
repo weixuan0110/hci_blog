@@ -1,14 +1,12 @@
 ---
-title: "Meet Our Team - niubility 2.0"
+title: "Project 0 - Meet Our Team"
 pubDate: "2025-10-30T08:00:00.000Z"
 author: "niubility 2.0"
 description: "Introduction to our HCI project team - niubility 2.0. Meet our group members and learn about our journey together!"
 tags: [hci, project, team, introduction]
 ---
 
-# Welcome to niubility 2.0! 🚀
-
-![Group Photo](./imgs/group-photo.jpeg)
+# Project 0 - Meet Our Team
 
 ## About Our Group Name
 

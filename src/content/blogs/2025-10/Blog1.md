@@ -1,5 +1,5 @@
 ---
-title: "Project 1 - Project Proposal: Health Guard AI"
+title: "Project 1 - Project Proposal"
 pubDate: "2025-10-31T10:00:00.000Z"
 author: "niubility 2.0"
 description: "Our comprehensive proposal for Health Guard AI - an integrated wellness platform addressing posture correction, hygiene education, and mental health support"
