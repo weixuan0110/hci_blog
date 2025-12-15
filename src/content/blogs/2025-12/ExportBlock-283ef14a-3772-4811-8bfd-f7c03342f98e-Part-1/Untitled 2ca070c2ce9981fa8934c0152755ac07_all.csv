@@ -1,0 +1,6 @@
+﻿Icon,Files,Function,Name
+,image18.png,"• A button located at top left of the screen, which represent the side menu. User can open the side expand menu by click the button. User could access secondary feature like History (view past data of postures or moods), Help/FAQ (get help or frequent ask question), Log Out by open the side menu.",Menu Icon
+,image19.png,"• A button located at top right of the screen, which represent the profile page. User could open the profile page by click the button. Users able to access and edit their personal details such as name, age, gender, height, weight in profile page.",Profile Icon
+,image20.png,"• A button located at bottom left of the screen, which represent the home page. User could use the home button to return to home page (dashboard) instantly.",Home Icon
+,image22.png,"• A button located at bottom right of the screen, which represent setting page. User able to control and customize their preferences by click the button.",Gear Icon
+,image21.png,"• A button located at bottom middle of the screen, which represent achievement and summary. User could view all their summarise data and achievements by click the button. Some gamification elements (current Streak, XP point, Level) will also be display in the page.",Star Icon
