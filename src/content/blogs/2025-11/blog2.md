@@ -161,7 +161,7 @@ Video Link: https://youtu.be/3E2QXAX8WoQ
 13. Users may manually add data for all mobility metrics except Walking Steadiness.
 14. After reviewing summaries or inputting data, the user may close and exit the application.
 
-![HTA of User 3 Task 1](imgs/6.png)
+![HTA of User 3 Task 1](imgs/6.jpeg)
 
 **Findings from the HTAs for Task 1: Check Posture and Physical Activity Data**
 
@@ -217,7 +217,7 @@ Video Link: https://youtu.be/LbUyjBFpzjw
 8. Users may manually add entries by specifying the time and duration of each activity.
 9. Once the user has finished reviewing or adding data, they may close and exit the application.
 
-![HTA of User 3 Task 2](imgs/9.png)
+![HTA of User 3 Task 2](imgs/9.jpeg)
 
 **Findings from the HTAs for Task 2: Record and Review Hygiene Data**
 
@@ -273,7 +273,7 @@ Video Link: https://youtu.be/SBmayEAPJx0
 12. The application automatically calculates duration and updates the historical data.
 13. After completing the review or adding new information, the user may exit and close the application.
 
-![HTA of User 3 Task 3](imgs/12.png)
+![HTA of User 3 Task 3](imgs/12.jpeg)
 
 **Findings from the HTAs for Task 3: Check Mental Wellness Risk Level**
 
