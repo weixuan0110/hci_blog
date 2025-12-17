@@ -5,6 +5,7 @@ import FormattedDate from "@/components/FormattedDate.astro";
 import { ImageViewer } from "@/components/image-viewer";
 import ContentNavigation from "@/components/navigation/ContentNavigation.astro";
 import ShareButtons from "@/components/ShareButtons.astro";
+import { TableOfContents } from "@/components/TableOfContents";
 import TagFilter from "@/components/TagFilter.astro";
 import { SITE_TITLE } from "@/consts";
 import MainLayout from "@/layouts/MainLayout.astro";
@@ -104,5 +105,6 @@ const pageTitle = `${post.data.title} | ${SITE_TITLE}`;
       />
     </div>
   </article>
+  <TableOfContents client:load />
   <ImageViewer selector="article img" client:load />
 </MainLayout>

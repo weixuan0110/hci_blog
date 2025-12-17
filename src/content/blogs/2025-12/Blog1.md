@@ -9,18 +9,6 @@ image: "./imgs/image1.png"
 
 # Project 3 - Design Documentation
 
-## Table of Contents
-
-1. [Storyboards](#storyboards)
-   - [Task 1: Monitor and Correct Posture Using Posture Guard](#task-1-monitor-and-correct-posture-using-posture-guard)
-   - [Task 2: Complete a Gamified Hygiene Routine](#task-2-complete-a-gamified-hygiene-routine)
-   - [Task 3: Log Emotional State and Receive a Personalized Mindfulness Activity](#task-3-log-emotional-state-and-receive-a-personalized-mindfulness-activity)
-2. [Alternative Designs](#alternative-designs)
-3. [Wireframes](#wireframes)
-4. [Interaction Metaphors](#interaction-metaphors)
-
----
-
 ## 1.0 Storyboards
 
 ### 1.1 Task 1: Monitor and Correct Posture Using Posture Guard
