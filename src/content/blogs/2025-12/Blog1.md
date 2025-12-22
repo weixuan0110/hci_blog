@@ -136,6 +136,8 @@ The user feels relaxed after the activity.
 5. **Lim Zoey** – vote for everyone  
    *Reason: All the layouts should be combined appropriately to produce the best layout.*
 
+In conclusion, we decided to use Edwin's design as a base, and incorporate elements from other designs to create a comprehensive and user-friendly interface wireframe for Health Guard AI.
+
 ---
 
 ## 3.0 Wireframes
