@@ -114,7 +114,9 @@ The existing system chosen for the Task Analysis and User Observation is the App
 ### 2.1 HTA for Task 1
 
 #### User 1: Parents
-Video Link: https://youtu.be/qfMBJwH2kFE 
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qfMBJwH2kFE" title="User 1 Parents Task 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 1. The user starts by launching the Apple Health application, requiring a device with location services enabled. 
 2. A first-time user must complete an account setup by entering personal details.
@@ -130,7 +132,9 @@ Video Link: https://youtu.be/qfMBJwH2kFE
 ![HTA of User 1 Task 1](imgs/4.png)
 
 #### User 2: Remote Workers
-Video Link: https://youtu.be/9nXktWmM8nc
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9nXktWmM8nc" title="User 2 Remote Workers Task 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 1. The user opens the Apple Health application.
 2. If the user is new, they must first create an account by providing their name, date of birth, and gender.
@@ -144,7 +148,9 @@ Video Link: https://youtu.be/9nXktWmM8nc
 ![HTA of User 2 Task 1](imgs/5.png)
 
 #### User 3: Office Workers
-Video Link: https://youtu.be/3E2QXAX8WoQ
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3E2QXAX8WoQ" title="User 3 Office Workers Task 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 1. The user launches the Apple Health application.
 2. Upon opening, the Pinned Summary appears on the main page.
@@ -174,7 +180,9 @@ The specific differences in results showed how people are affected by this ineff
 ### 2.2 HTA for Task 2
 
 #### User 1: Parents
-Video Link: https://youtu.be/ErPgm12AMF4 
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ErPgm12AMF4" title="User 1 Parents Task 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 1. The user starts by opening the Apple Health application.
 2. If the user is new, they must first create an account by providing their name, date of birth, and gender.
@@ -190,7 +198,9 @@ Video Link: https://youtu.be/ErPgm12AMF4
 ![HTA of User 1 Task 2](imgs/7.png)
 
 #### User 2: Remote Workers
-Video Link : https://youtu.be/9FRWzaJQ7eI 
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9FRWzaJQ7eI" title="User 2 Remote Workers Task 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 1. The user opens the Apple Health application.
 2. If the user is new, they must first create an account by providing their name, date of birth, and gender.
@@ -205,7 +215,9 @@ Video Link : https://youtu.be/9FRWzaJQ7eI
 ![HTA of User 2 Task 2](imgs/8.png)
 
 #### User 3: Office Workers
-Video Link: https://youtu.be/LbUyjBFpzjw
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LbUyjBFpzjw" title="User 3 Office Workers Task 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 1. The user opens the Apple Health application, where the Pinned Summary will appear on the main page.
 2. Ensure that the device is connected to the Internet.
@@ -228,7 +240,9 @@ The differences in results showed clearly how this structural problem affected d
 ### 2.3 HTA for Task 3
 
 #### User 1: Parents
-Video Link: https://youtu.be/SEcmRVWpOOk 
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SEcmRVWpOOk" title="User 1 Parents Task 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 1. The user starts by opening the Apple Health application.
 2. The user then navigates to the "Browse" section using the bottom menu.
@@ -243,7 +257,9 @@ Video Link: https://youtu.be/SEcmRVWpOOk
 ![HTA of User 1 Task 3](imgs/10.png)
 
 #### User 2: Remote Worker
-Video Link : https://youtu.be/TxIdsu5UXTQ
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TxIdsu5UXTQ" title="User 2 Remote Worker Task 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 1. The user opens the Apple Health application.
 2. If the user is new, they must first create an account by providing their name, date of birth, and gender.
@@ -257,7 +273,9 @@ Video Link : https://youtu.be/TxIdsu5UXTQ
 ![HTA of User 2 Task 3](imgs/11.png)
 
 #### User 3: Office Workers
-Video Link: https://youtu.be/SBmayEAPJx0
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SBmayEAPJx0" title="User 3 Office Workers Task 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 1. The user opens the Apple Health application, where the Pinned Summary appears on the main page.
 2. Connect the device to the internet.
