@@ -89,15 +89,42 @@ Before we begin, may I have your verbal consent to participate and be recorded? 
 
 ### Observation from User 1
 
-Madam Canie Teh provided positive feedback about the overall application, stating that it was helpful in improving her quality of life. She found the features interesting and the user interface clean and easy to understand, making the application user-friendly and attractive. However, she noted that the timer for hygiene tasks was too short, making it difficult to complete the activities. She suggested increasing the time for each task.
+Based on the feedback provided by the first user, Madam Canie Teh. She gave great feedback
+for overall of our application, and she think that the application was helpful to improve her
+quality of life. She said that the feature of our application was interesting, and the user
+interface design or layout was clean and easy to understand, mean that our application was
+user friendly and able to attract user. But we also receive a complaint from Madam Canie.
+The dissatisfied part about our application was the timer for each hygiene task, she thinks that
+time given for each hygiene task were not enough for complete the activity. She could not
+finish the task before the time run out, which bring inconvenience to her. She suggested that
+we could improve the issue by increase time for each hygiene task. 
 
 ### Observation from User 2
 
-Sir Mohamad Akram Bin Mohd Faisal appreciated the user-friendly design and step-by-step instructions, which made the application easy to navigate. He also liked the engaging animations and the focus on addressing desk-related issues, which are relevant to remote workers. However, he suggested improvements such as adding auto-detection for hygiene tasks to reduce manual interaction and incorporating a feature to track long-term data, like previous postures and moods, to help users monitor their progress.
+Our second testing user, Sir Mohamad Akram Bin Mohd Faisal, stated that the iHealth Guard
+application offers few notable advantages, which is mainly focused on the user-friendly
+design. The application’s interface guided users well with step-by-step instructions and made
+the process very easy to navigate. The existence of interesting animations was useful to
+attract user’s attention. Additionally, he also said that the application was focused on
+addressing common desk related issues, which is suitable for remote workers like him.
+However, he thinks that there are some improvements needed for our application. One
+significant issue is the hygiene activities, where users need to click manually to move
+forward to next step, instead of letting the camera auto-detect the process. Moreover, he also
+said that there is lack of a feature of tracking long term data for users. For example, a feature
+to store all the previous data like previous postures and moods, for giving users convenience
+to observe their progress. 
+
 
 ### Observation from User 3
 
-Madam Tan Yi Jie found the application straightforward and easy to use, with clear and relevant tips. She expressed interest in using the app as a personal journal for recording daily emotions, appreciating the secure mood processing feature. However, she was confused about the purpose of the gamification icon displayed after completing hygiene tasks.
+Based on feedback from third user, Madam Tan Yi Jie. She found that the iHealth Guard
+application were very straightforward and easy to use, especially the clarity of the interface.
+Additionally, she said about the tips given by the application were accurate and relevant to
+her needs. She told us that, she willing to use our application as her personal journal tool to
+record her daily emotions, because our application able to process her mood securely.
+However, there is also a confusion regarding the icon displayed to users. She gets confused
+on the purpose on the gamification icon that appear after completing the hygiene task. 
+
 
 ## 6. Findings
 
@@ -105,10 +132,35 @@ Madam Tan Yi Jie found the application straightforward and easy to use, with cle
 
 From the user feedback, several usability issues were identified:
 
-1. **Strict Timing for Hygiene Tasks**: Users found the timer too short to complete activities. A "Mark as Done" button or a user-configured timer could address this issue.
+By analyzing the data from the users, a few usability problems were identified. The first
+usability problem that requires consideration, is stated by Madam Canie Teh, lies in the
+presence of strict timing requirements for these hygiene procedures. In her assessment, she
+felt that the timer involved was too short for complete the involved activities before its
+expiry. In an attempt to correct these deficiencies, a useful approach would be for the
+developers to incorporate flexibility in these timers. Instead of an automatic timer that
+changes screens, they can make use of a "Mark as Done" button or a user-configured timer
+within the settings.
 
-2. **Manual Interaction for Hygiene Tasks**: Users suggested incorporating auto-detection via camera or voice commands to minimize manual interaction.
+Secondly, another issue raised by Sir Mohamad Akram regarding the hygiene tasks. He felt it
+was a burden to click the 'Next' button to go to the next step while the actual step involves
+physically backing away to perform the standing desk exercise. The solution would be to
+minimize the need for human interaction by incorporating the auto-detection feature via the
+camera or voice commands. This way, the system would automatically detect the completion
+of the action or get the signal to go to the next step through voice commands to offer a
+seamless experience that corresponds with the action.
 
-3. **Lack of Long-Term Data Tracking**: Adding a "History" and "Progress" feature would allow users to monitor their progress over time.
+Apart from navigation, another aspect that Sir Mohamad Akram clarified as lacking in this
+application is the engagement features regarding long-term data, particularly in viewing
+progress. The application lacks the capacity to retain data regarding past posture data, moods
+recorded, and other such information that could be essential in allowing the users to monitor
+their progress. To improve this aspect, there is a need to include "History" and "Progress" in
+the application. The application will be able to display summarized data over a period of
+weeks rather than just assisting the user daily.
 
-By addressing these issues, the iHealth Guard application can provide a more seamless and user-friendly experience.
+## 7. Conceptual Video
+
+To better understand the vision and functionality of the iHealth Guard project, please watch the conceptual video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJ_bCijffA0" title="Conceptual Video for iHealth Guard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Alternatively, you can view the video directly on [YouTube](https://youtu.be/WJ_bCijffA0).
