@@ -1,6 +1,7 @@
 ---
 title: "HCI Phase 4 Report"
 description: "A detailed report on the usability testing and findings for the iHealth Guard project during HCI Phase 4."
+tags: [hci, project, design, storyboard, prototype, ui-ux]
 pubDate: "2026-01-01"
 ---
 
