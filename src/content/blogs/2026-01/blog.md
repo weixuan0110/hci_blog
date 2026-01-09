@@ -179,6 +179,6 @@ weeks rather than just assisting the user daily.
 
 To better understand the vision and functionality of the iHealth Guard project, please watch the conceptual video below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WJ_bCijffA0" title="Conceptual Video for iHealth Guard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAvXLY6Wp1Y" title="Conceptual Video for iHealth Guard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Alternatively, you can view the video directly on [YouTube](https://youtu.be/WJ_bCijffA0).
+Alternatively, you can view the video directly on [YouTube](https://youtu.be/fAvXLY6Wp1Y).
